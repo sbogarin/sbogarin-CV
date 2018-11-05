@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Italianno');
+
+i{
+cursor: pointer;
+}
+a{
+letter-spacing: 2px;    
+ font-family: 'Libre Franklin', sans-serif;     
+}
+h1,h2,h3,h4{
+ font-family: 'Libre Franklin', sans-serif;  
+letter-spacing: 5.5px;    
+}
+p{
+font-family: monospace;   
+}
+
+img{
+display: block;
+max-width: 100%;
+}
+
+*{
+ margin: 0;
+ padding:0;
+ box-sizing:border-box;
+}
+body{
+background: #F8F9F9;
+}
+.construccion {
+display: block;	
+text-align: center;	
+font-size: 80px;
+color: red;	
+}
